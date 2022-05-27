@@ -1,0 +1,11 @@
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.exe.config
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.exe
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.pdb
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.Form1.resources
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.Properties.Resources.resources
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.GenerateResource.cache
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.exe
+C:\Users\Utku\Desktop\VS Projeleri\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.pdb
